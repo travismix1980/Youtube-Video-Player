@@ -13,7 +13,7 @@ class App extends Component {
   };
 
   componentDidMount() {
-    this.onTermSubmit('crusader kings 2');
+    this.onTermSubmit("kittens adorable");
   }
 
   onTermSubmit = async (term) => {
